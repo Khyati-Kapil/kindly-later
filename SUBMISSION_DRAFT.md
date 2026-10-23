@@ -46,6 +46,12 @@ This design also makes the safety behavior visible. The model suggests; the Pyth
 
 I have not measured time saved yet. A fair test is to time a manual triage of the same exported messages, then time review of the generated queue, counting corrections. I will add those numbers after a successful real model run.
 
+## Prize Categories
+
+This project is entered for the overall Hacktoberfest Open-Source AI Challenge Week 3 prize.
+
+It is not currently claiming a partner category. The code supports Ollama models locally, but a partner category should be listed only after that partner technology is used successfully in the working demo. For example, the Gemma category would require a verified run with Gemma.
+
 ## Before Publishing
 
 - Run Ollama successfully on the four fictional sample messages and record the actual decisions, drafts, and elapsed time.
